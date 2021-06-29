@@ -12,6 +12,7 @@ const Label = styled.label`
 `;
 
 const Select = styled.select`
+
   width: 100%;
   display: block;
   padding: 1rem;
